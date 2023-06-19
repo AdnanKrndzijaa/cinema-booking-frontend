@@ -1,1 +1,1 @@
-# cinema-booking-frontend
+# cbt-frontend
